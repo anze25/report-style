@@ -12,7 +12,7 @@ Ta aplikacija Vue 3 uporabnikom omogoča enostavno pretvorbo CSV datotek v lepo 
 2. **Natisnite**: Po želji lahko prenesete natisnete HTML tabelo z gumbom NATISNI TABELO.
 
 ## Posnetek zaslona
-![Alt text](screenshot.png)
+![Alt text]/(screenshot.png)
 
 
 ## Licenca
