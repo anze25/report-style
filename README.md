@@ -14,6 +14,10 @@ Ta aplikacija Vue 3 uporabnikom omogoča enostavno pretvorbo CSV datotek v lepo 
 ## Posnetek zaslona
 ![Alt text](https://github.com/anze25/report-style/blob/master/public/Screenshot.png)
 
+## LIVE
+
+[https:](https://sodisce.as-storitve.si/)
+
 
 ## Licenca
 Ta projekt je licenciran pod MIT licenco.
