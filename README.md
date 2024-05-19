@@ -16,7 +16,7 @@ Ta aplikacija Vue 3 uporabnikom omogoča enostavno pretvorbo CSV datotek v lepo 
 
 ## LIVE
 
-[https:](https://sodisce.as-storitve.si/)
+[Convert csv report](https://sodisce.as-storitve.si/)
 
 
 ## Licenca
