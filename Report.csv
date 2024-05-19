@@ -1,0 +1,33 @@
+�as obdelave: 24. 04. 2024 06:29:46;;;
+Koli�ine po print datotekah:;;;
+;;;
+DATOTEKA;KUVERTE;STRANI;LISTI
+;;;
+zpp_documents_01_1.dat;2514;5028;2514
+zpp_documents_03_1.dat;2171;9712;4856
+zpp_documents_07_1.dat;831;6648;3324
+zpp_documents_09_1.dat;448;5414;2707
+zpp_documents_17_1.dat;363;12806;6403
+Skupaj;6327;39608;19804
+;;;
+
+zpn_documents_01_1.dat;383;766;383
+zpn_documents_03_1.dat;101;458;229
+zpn_documents_07_1.dat;8;64;32
+zpn_documents_09_1.dat;505;5268;2634
+zpn_documents_17_1.dat;3;70;35
+Skupaj;1000;6626;3313
+;;;
+nav_documents_01_1.dat;268;536;268
+nav_documents_03_1.dat;127;554;277
+nav_documents_07_1.dat;17;136;68
+nav_documents_09_1.dat;15;152;76
+nav_documents_17_1.dat;30;540;270
+Skupaj;457;1918;959
+;;;
+zup_documents_01_1.dat;221;442;221
+zup_documents_03_1.dat;186;932;466
+zup_documents_07_1.dat;26;208;104
+zup_documents_09_1.dat;17;186;93
+zup_documents_17_1.dat;17;186;93
+Skupaj;450;1768;884
